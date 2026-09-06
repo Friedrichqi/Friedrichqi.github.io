@@ -1,152 +1,98 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yijiahao (Friedrich) Qi",
+    "email": "yq335@cornell.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://Friedrichqi.github.io",
+    "summary": "First-year Ph.D. student in ECE at Cornell University working on efficient and scalable systems for machine learning, with an emphasis on distributed training and inference.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "14850",
+      "city": "Ithaca",
       "countryCode": "US",
-      "region": ""
+      "region": "NY"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=3gXxY4UAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0006-7649-1127",
+        "url": "https://orcid.org/0009-0006-7649-1127"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Friedrichqi",
+        "url": "https://github.com/Friedrichqi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "friedrichqi",
+        "url": "https://www.linkedin.com/in/friedrichqi"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Cornell University",
+      "area": "Ph.D. in Electrical and Computer Engineering",
+      "studyType": "Doctoral student",
+      "startDate": "2026",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Peking University",
+      "area": "B.S. in Applied Physics (EECS Department)",
+      "studyType": "Bachelor",
+      "startDate": "2022-09",
+      "endDate": "2026-07",
+      "gpa": "3.75/4.0 (Top 18%)",
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["C++", "Python", "PyTorch", "Verilog"]
+    },
+    {
+      "name": "Developer tools",
+      "keywords": ["Vivado", "Vitis", "Linux", "Git", "Docker"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems",
+      "publisher": "ASPLOS 2026",
+      "releaseDate": "2026-03-01",
+      "website": "",
+      "summary": "Characterizes the reliability of LLM-based embodied AI systems at the application, system, and circuit levels, and proposes error detection and correction techniques for efficient yet reliable embodied AI. (Co-first author.)"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Faster-MoA: Low-Latency Tree-Structured MoA Serving with Early Exit and Agent-Aware Prefill-Decode Overlap",
+      "publisher": "DAC 2026",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Accelerates Mixture-of-Agents serving with a tree-structured aggregation architecture, semantic-similarity-based early exit, and agent-aware prefill-decode overlap. (Co-first author.)"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation",
+      "publisher": "DAC 2026",
+      "releaseDate": "2026-06-02",
+      "website": "",
+      "summary": "Adaptive layer-skipping for VLA model inference based on task requirements and motion significance, cutting trainable parameters by 85.7× versus full fine-tuning."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
