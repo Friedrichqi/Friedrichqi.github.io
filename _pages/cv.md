@@ -15,10 +15,10 @@ Education
 ======
 * B.S. in Applied Physics, Peking University, 2022 — 2026
   * EECS Department; GPA: 3.75/4.0 (Top 18%)
-  * Advised by Prof. Meng Li
+  * Advised by [Prof. Meng Li](https://mengli.me/)
 * Undergraduate Research Intern, Georgia Institute of Technology, 2025 — 2026
-  * SHARC Lab, ECE Department
-  * Advised by Prof. Cong (Callie) Hao
+  * [SHARC Lab](https://sharclab.ece.gatech.edu/), ECE Department
+  * Advised by [Prof. Cong (Callie) Hao](https://sharclab.ece.gatech.edu/)
 
 Core courses: Hardware Foundations of Artificial Intelligence (A+), Machine Learning for Electronics Information Engineering (A), Undergraduate Research Practice (A), Chip Design using High-level Programming Language (A)
 
@@ -26,7 +26,7 @@ Research experience
 ======
 
 * **CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems** (accepted by ASPLOS 2026)
-  * Jul 2024 — Mar 2025, Peking University, advised by Prof. Meng Li
+  * Jul 2024 — Mar 2025, Peking University, advised by [Prof. Meng Li](https://mengli.me/)
   * Assessed the reliability of modern LLM-based embodied AI systems and proposed error detection and correction methodologies at the application, system, and circuit levels.
   * Applied SmoothQuant's fault-injection methodology, identifying o_proj and down_proj as the most sensitive layers.
   * Designed a lightweight AD circuit that protects the planner, improving robustness from 10<sup>-7</sup> to 10<sup>-3</sup> BER.
@@ -34,7 +34,7 @@ Research experience
   * Integrated an entropy-aware LDO for dynamic voltage scaling, cutting compute energy by 40.6%.
 
 * **Faster-MoA: Low-Latency Tree-Structured MoA Serving with Early Exit and Agent-Aware Prefill-Decode Overlap** (accepted by DAC 2026)
-  * Mar 2025 — Nov 2025, Georgia Tech SHARC Lab, advised by Prof. Cong (Callie) Hao
+  * Mar 2025 — Nov 2025, Georgia Tech SHARC Lab, advised by [Prof. Cong (Callie) Hao](https://sharclab.ece.gatech.edu/)
   * Goal: rival server-level large models with small but powerful models through cross-agent communication.
   * Systematically profiled the influence of different configurations on the overall performance of the MoA system.
   * Introduced a novel tree architecture for local aggregation and pipelined the prefilling and decoding stages.
@@ -43,7 +43,7 @@ Research experience
   * Applied semantic-similarity-based early exit to prune unnecessary inferences (10× faster) with only ±1% accuracy variation.
 
 * **DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation** (accepted by DAC 2026)
-  * Feb 2025 — May 2025, Peking University, advised by Prof. Meng Li
+  * Feb 2025 — May 2025, Peking University, advised by [Prof. Meng Li](https://mengli.me/)
   * Assessed the inter-layer similarity of VLA models and proposed an adaptive layer-skip scheme that bypasses layers based on task requirements and motion significance.
   * Profiled VLA models' robustness under dynamic layer skipping and quantified activation similarity between adjacent layers (mean ~80%).
   * Trained adapters and skip controllers in two stages, reducing trainable parameters by 85.7× versus full-parameter fine-tuning.
