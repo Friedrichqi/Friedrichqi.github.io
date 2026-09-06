@@ -23,10 +23,10 @@ repository               : "Friedrichqi/Friedrichqi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LinkedIn.JPG" # filename of avatar image placed in /images/ for social media previews
   name             : "Yijiahao (Friedrich) Qi"
   pronouns         : # example: "she/her"  
-  bio              : "I am a 1st-year PhD student at ECE Department of Cornell University. My research focuses on building efficient and scalable large-scale systems for machine learning, with an emphasis on distributed training and inference."
+  bio              : "1st-year ECE PhD@Cornell | EECS BSc@PKU |  Research: Memory management, GPU systems, MLsys."
   location         : "Ithaca, NY, 14850"
   employer         : "Cornell University"
   uri              : # URL

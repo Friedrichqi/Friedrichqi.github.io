@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the School of Electrical and Computer Engineering at Cornell University. My research focuses on building efficient and scalable systems for machine learning, with an emphasis on distributed training and inference.
+I am a 1st-year PhD student in the Computer System Lab of ECE Department at Cornell University. My research focuses on tiered memory management on large-scale GPU systems for modern Machine Learning Systems.
 
-Before joining Cornell, I received my B.S. in Applied Physics from Peking University (EECS Department) in 2026, advised by Prof. Meng Li. During my undergraduate studies, I spent a year as a research intern in the SHARC Lab at Georgia Tech, working with Prof. Cong (Callie) Hao on efficient Mixture-of-Agents (MoA) serving systems.
+Before joining Cornell, I received my B.S. in Applied Physics from Peking University (EECS Department) in 2026, advised by [Prof. Meng Li](https://mengli.me/). During my undergraduate studies, I spent a year as a research intern in the [SHARC Lab](https://sharclab.ece.gatech.edu/) at Georgia Tech, working with [Prof. Cong (Callie) Hao](https://sites.gatech.edu/ece-callie/) on efficient Mixture-of-Agents (MoA) serving systems.
 
 Research interests
 ======
