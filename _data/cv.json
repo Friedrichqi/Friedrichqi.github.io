@@ -74,21 +74,21 @@
       "name": "CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems",
       "publisher": "ASPLOS 2026",
       "releaseDate": "2026-03-01",
-      "website": "",
+      "website": "https://dl.acm.org/doi/10.1145/3779212.3790147",
       "summary": "Characterizes the reliability of LLM-based embodied AI systems at the application, system, and circuit levels, and proposes error detection and correction techniques for efficient yet reliable embodied AI. (Co-first author.)"
     },
     {
       "name": "Faster-MoA: Low-Latency Tree-Structured MoA Serving with Early Exit and Agent-Aware Prefill-Decode Overlap",
       "publisher": "DAC 2026",
       "releaseDate": "2026-06-01",
-      "website": "",
+      "website": "https://arxiv.org/abs/2512.18126",
       "summary": "Accelerates Mixture-of-Agents serving with a tree-structured aggregation architecture, semantic-similarity-based early exit, and agent-aware prefill-decode overlap. (Co-first author.)"
     },
     {
       "name": "DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation",
       "publisher": "DAC 2026",
       "releaseDate": "2026-06-02",
-      "website": "",
+      "website": "https://arxiv.org/abs/2602.22896",
       "summary": "Adaptive layer-skipping for VLA model inference based on task requirements and motion significance, cutting trainable parameters by 85.7× versus full fine-tuning."
     }
   ],
